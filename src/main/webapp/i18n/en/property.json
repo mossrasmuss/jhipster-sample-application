@@ -1,0 +1,25 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "property": {
+      "home": {
+        "title": "Properties",
+        "createLabel": "Create a new Property",
+        "createOrEditLabel": "Create or edit a Property",
+        "notFound": "No Properties found"
+      },
+      "created": "A new Property is created with identifier {{ param }}",
+      "updated": "A Property is updated with identifier {{ param }}",
+      "deleted": "A Property is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Property {{ id }}?"
+      },
+      "detail": {
+        "title": "Property"
+      },
+      "totalArea": "Total Area",
+      "description": "Description",
+      "status": "Status",
+      "category": "Category"
+    }
+  }
+}
